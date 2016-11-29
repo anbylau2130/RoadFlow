@@ -1,0 +1,9 @@
+D:\Project\RoadFlow\MyCache.Factory\bin\Release\MyCache.Factory.dll
+D:\Project\RoadFlow\MyCache.Factory\bin\Release\MyCache.Factory.pdb
+D:\Project\RoadFlow\MyCache.Factory\bin\Release\MyCache.InProc.dll
+D:\Project\RoadFlow\MyCache.Factory\bin\Release\MyCache.Interface.dll
+D:\Project\RoadFlow\MyCache.Factory\bin\Release\MyCache.InProc.pdb
+D:\Project\RoadFlow\MyCache.Factory\bin\Release\MyCache.Interface.pdb
+D:\Project\RoadFlow\MyCache.Factory\obj\Release\MyCache.Factory.csprojResolveAssemblyReference.cache
+D:\Project\RoadFlow\MyCache.Factory\obj\Release\MyCache.Factory.dll
+D:\Project\RoadFlow\MyCache.Factory\obj\Release\MyCache.Factory.pdb

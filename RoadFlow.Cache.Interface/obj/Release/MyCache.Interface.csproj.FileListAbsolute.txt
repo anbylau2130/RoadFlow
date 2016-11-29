@@ -1,0 +1,5 @@
+D:\Project\RoadFlow\MyCache.Interface\bin\Release\MyCache.Interface.dll
+D:\Project\RoadFlow\MyCache.Interface\bin\Release\MyCache.Interface.pdb
+D:\Project\RoadFlow\MyCache.Interface\obj\Release\MyCache.Interface.csprojResolveAssemblyReference.cache
+D:\Project\RoadFlow\MyCache.Interface\obj\Release\MyCache.Interface.dll
+D:\Project\RoadFlow\MyCache.Interface\obj\Release\MyCache.Interface.pdb

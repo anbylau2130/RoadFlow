@@ -1,0 +1,7 @@
+D:\Project\RoadFlow\Data.Interface\bin\Release\Data.Interface.dll
+D:\Project\RoadFlow\Data.Interface\bin\Release\Data.Interface.pdb
+D:\Project\RoadFlow\Data.Interface\bin\Release\Data.Model.dll
+D:\Project\RoadFlow\Data.Interface\bin\Release\Data.Model.pdb
+D:\Project\RoadFlow\Data.Interface\obj\Release\Data.Interface.csprojResolveAssemblyReference.cache
+D:\Project\RoadFlow\Data.Interface\obj\Release\Data.Interface.dll
+D:\Project\RoadFlow\Data.Interface\obj\Release\Data.Interface.pdb

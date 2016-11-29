@@ -1,0 +1,5 @@
+D:\Project\RoadFlow\Data.Model\bin\Release\Data.Model.dll
+D:\Project\RoadFlow\Data.Model\bin\Release\Data.Model.pdb
+D:\Project\RoadFlow\Data.Model\obj\Release\Data.Model.csprojResolveAssemblyReference.cache
+D:\Project\RoadFlow\Data.Model\obj\Release\Data.Model.dll
+D:\Project\RoadFlow\Data.Model\obj\Release\Data.Model.pdb

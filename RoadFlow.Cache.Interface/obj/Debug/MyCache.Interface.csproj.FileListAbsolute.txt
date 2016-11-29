@@ -1,0 +1,15 @@
+E:\Projects\PlatformRazor\MyCache.Interface\bin\Debug\MyCache.Interface.dll
+E:\Projects\PlatformRazor\MyCache.Interface\bin\Debug\MyCache.Interface.pdb
+E:\Projects\PlatformRazor\MyCache.Interface\obj\Debug\MyCache.Interface.csprojResolveAssemblyReference.cache
+E:\Projects\PlatformRazor\MyCache.Interface\obj\Debug\MyCache.Interface.dll
+E:\Projects\PlatformRazor\MyCache.Interface\obj\Debug\MyCache.Interface.pdb
+D:\Project\PlatformRazor\MyCache.Interface\bin\Debug\MyCache.Interface.dll
+D:\Project\PlatformRazor\MyCache.Interface\bin\Debug\MyCache.Interface.pdb
+D:\Project\PlatformRazor\MyCache.Interface\obj\Debug\MyCache.Interface.csprojResolveAssemblyReference.cache
+D:\Project\PlatformRazor\MyCache.Interface\obj\Debug\MyCache.Interface.dll
+D:\Project\PlatformRazor\MyCache.Interface\obj\Debug\MyCache.Interface.pdb
+D:\Project\RoadFlow\MyCache.Interface\bin\Debug\MyCache.Interface.dll
+D:\Project\RoadFlow\MyCache.Interface\bin\Debug\MyCache.Interface.pdb
+D:\Project\RoadFlow\MyCache.Interface\obj\Debug\MyCache.Interface.dll
+D:\Project\RoadFlow\MyCache.Interface\obj\Debug\MyCache.Interface.pdb
+D:\Project\RoadFlow\MyCache.Interface\obj\Debug\MyCache.Interface.csprojResolveAssemblyReference.cache

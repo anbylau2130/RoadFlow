@@ -1,0 +1,10 @@
+E:\Projects\PlatformMvc\Cache1.Interface\bin\Debug\Cache1.Interface.dll
+E:\Projects\PlatformMvc\Cache1.Interface\bin\Debug\Cache1.Interface.pdb
+E:\Projects\PlatformMvc\Cache1.Interface\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\PlatformMvc\Cache1.Interface\obj\Debug\Cache1.Interface.dll
+E:\Projects\PlatformMvc\Cache1.Interface\obj\Debug\Cache1.Interface.pdb
+E:\Projects\PlatformRazor\Cache1.Interface\bin\Debug\Cache1.Interface.dll
+E:\Projects\PlatformRazor\Cache1.Interface\bin\Debug\Cache1.Interface.pdb
+E:\Projects\PlatformRazor\Cache1.Interface\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\PlatformRazor\Cache1.Interface\obj\Debug\Cache1.Interface.dll
+E:\Projects\PlatformRazor\Cache1.Interface\obj\Debug\Cache1.Interface.pdb

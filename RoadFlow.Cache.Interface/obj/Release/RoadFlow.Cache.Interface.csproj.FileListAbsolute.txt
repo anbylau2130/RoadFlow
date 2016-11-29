@@ -1,0 +1,10 @@
+D:\Project\RoadFlow\RoadFlow.Cache.Interface\bin\Release\RoadFlow.Cache.Interface.dll
+D:\Project\RoadFlow\RoadFlow.Cache.Interface\bin\Release\RoadFlow.Cache.Interface.pdb
+D:\Project\RoadFlow\RoadFlow.Cache.Interface\obj\Release\RoadFlow.Cache.Interface.csprojResolveAssemblyReference.cache
+D:\Project\RoadFlow\RoadFlow.Cache.Interface\obj\Release\RoadFlow.Cache.Interface.dll
+D:\Project\RoadFlow\RoadFlow.Cache.Interface\obj\Release\RoadFlow.Cache.Interface.pdb
+D:\Projects1\RoadFlow\RoadFlow.Cache.Interface\bin\Release\RoadFlow.Cache.Interface.dll
+D:\Projects1\RoadFlow\RoadFlow.Cache.Interface\bin\Release\RoadFlow.Cache.Interface.pdb
+D:\Projects1\RoadFlow\RoadFlow.Cache.Interface\obj\Release\RoadFlow.Cache.Interface.csprojResolveAssemblyReference.cache
+D:\Projects1\RoadFlow\RoadFlow.Cache.Interface\obj\Release\RoadFlow.Cache.Interface.dll
+D:\Projects1\RoadFlow\RoadFlow.Cache.Interface\obj\Release\RoadFlow.Cache.Interface.pdb

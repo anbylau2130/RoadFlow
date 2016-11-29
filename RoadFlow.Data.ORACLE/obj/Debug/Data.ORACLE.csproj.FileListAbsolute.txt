@@ -1,0 +1,14 @@
+D:\Project\RoadFlow\Data.Oracle\bin\Debug\Data.Oracle.dll
+D:\Project\RoadFlow\Data.Oracle\bin\Debug\Data.Oracle.pdb
+D:\Project\RoadFlow\Data.Oracle\bin\Debug\Data.Interface.dll
+D:\Project\RoadFlow\Data.Oracle\bin\Debug\Data.Model.dll
+D:\Project\RoadFlow\Data.Oracle\bin\Debug\Utility.dll
+D:\Project\RoadFlow\Data.Oracle\bin\Debug\LitJSON.dll
+D:\Project\RoadFlow\Data.Oracle\bin\Debug\Data.Interface.pdb
+D:\Project\RoadFlow\Data.Oracle\bin\Debug\Data.Model.pdb
+D:\Project\RoadFlow\Data.Oracle\bin\Debug\Utility.pdb
+D:\Project\RoadFlow\Data.Oracle\bin\Debug\LitJSON.pdb
+D:\Project\RoadFlow\Data.Oracle\obj\Debug\Data.Oracle.csprojResolveAssemblyReference.cache
+D:\Project\RoadFlow\Data.Oracle\obj\Debug\Data.Oracle.dll
+D:\Project\RoadFlow\Data.Oracle\obj\Debug\Data.Oracle.pdb
+D:\Project\RoadFlow\Data.Oracle\bin\Debug\Oracle.DataAccess.dll
